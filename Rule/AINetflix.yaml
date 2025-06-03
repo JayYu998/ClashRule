@@ -2,6 +2,8 @@ payload:
 # CHATGPT
   - DOMAIN-KEYWORD,openai,AI及流媒体
 # Gemini
+  - DOMAIN-SUFFIX,gemini.google.com,AI及流媒体
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI及流媒体
   - DOMAIN-KEYWORD,gemini,AI及流媒体
   - DOMAIN-KEYWORD,doubleclick,AI及流媒体
   - DOMAIN-SUFFIX,googleapis.com,AI及流媒体
